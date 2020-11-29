@@ -24,7 +24,7 @@ def stream_1():
     count = 0;
     sendEmail = False # Flag de envio de email
 
-    client = Client("AC7139693ce26ea2ee6ccc71ad97b4d324", "a37147b7c0f956888178a4b4283b9322") # Autenticação de envio de email
+    # client = Client("AC7139693ce26ea2ee6ccc71ad97b4d324", "a37147b7c0f956888178a4b4283b9322") # Autenticação de envio de email
 
     while True:
         # Capture frame-by-frame
@@ -47,9 +47,9 @@ def stream_1():
                 print(frame)
                 sendEmail = True
                 count += 1
-                client.messages.create(to="+5571992492638",
-                                       from_="+12055499653",
-                                       body="ALERTA DE PESSOA") #Destino e origem do envio SMS + msg
+                # client.messages.create(to="+5571992492638",
+                #                        from_="+12055499653",
+                #                        body="ALERTA DE PESSOA") #Destino e origem do envio SMS + msg
         else:
             sendEmail = False;
 

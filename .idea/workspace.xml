@@ -20,19 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="777cb8d0-2e60-4715-9f77-0f85bbaea856" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/backup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PersonalWebsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/backup/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/backup/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/backup/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/thank.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/backup/thank.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/styless.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/styless.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -73,14 +65,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PythonProjects\PersonalWebsite\mysite\static\mysite\images" />
-      <recent name="E:\PythonProjects\PersonalWebsite\mysite\templates\mysite\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projetos Git\Face-Detection\mysite\static\mysite\css" />
+      <recent name="D:\Projetos Git\Face-Detection\PersonalWebsite\static\css" />
       <recent name="C:\Users\Leonardo\PycharmProjects\Django2.1-Personal-Website\mysite\backup" />
       <recent name="E:\PythonProjects\PersonalWebsite\mysite\static\mysite" />
       <recent name="E:\PythonProjects\PersonalWebsite\mysite\templates\mysite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\PersonalWebsite\mysite\static\mysite\images" />
+      <recent name="E:\PythonProjects\PersonalWebsite\mysite\templates\mysite\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -121,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534415948534</updated>
       <workItem from="1606524290839" duration="5955000" />
+      <workItem from="1606690019110" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="Front end for the Homepage and Portfolio page">
       <created>1536049803616</created>
@@ -173,6 +168,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Front end for the Homepage and Portfolio page" />
@@ -184,25 +180,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606524319958" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606530960210">
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom" timestamp="1606690811479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606530960210" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606530960210">
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606690811479" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606690243275" />
+    <state width="1493" height="281" key="GridCell.Tab.0.center" timestamp="1606690811479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606530960210" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606530960210">
+    <state width="1493" height="281" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606690811479" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606690243275" />
+    <state width="1493" height="281" key="GridCell.Tab.0.left" timestamp="1606690811479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606530960210" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606530960210">
+    <state width="1493" height="281" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606690811479" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606690243274" />
+    <state width="1493" height="281" key="GridCell.Tab.0.right" timestamp="1606690811479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606530960210" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1606528838265">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="281" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606690811479" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606690243275" />
+    <state x="2266" y="72" key="SettingsEditor" timestamp="1606690157562">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606528838265" />
+    <state x="2266" y="72" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606690157562" />
   </component>
 </project>
