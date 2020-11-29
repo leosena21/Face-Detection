@@ -2,16 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link href="styless.css" rel="stylesheet">
     <title>Title</title>
 </head>
-<body>
+<body class="container">
     <h1>Sistema de detecção inteligente</h1>
-    <article>
-        <h2>Camera 1</h2>
-        <p>
-         <img src="{% url 'video-feed-1' %}" alt=""></br></br>
-        </p>
+        <h2>Câmera de segurança</h2>
+        <div class="container-border">    
+                <img src="{% url 'video-feed-1' %}"  alt="">           
+        </div>
 
-    </article>
+        <div class="footer">
+              <p> Densenvolvido por Bruna Andrade, Leonardo Sena e Gabriel Luiz Santana. Para mais informações do desenvolvimento acessar o <a href="https://github.com/leosena21/Face-Detection">Git</a> do projeto.</p>  
+        </div>
+      
+    
 </body>
 </html>
